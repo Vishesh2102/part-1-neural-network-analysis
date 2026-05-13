@@ -1,0 +1,4 @@
+Run,Layers,Neurons,LR,Test Accuracy
+Simple_Fast,1,16,0.01,0.98
+Deep_Standard,4,64,0.001,0.975
+Complex_Slow,2,128,0.0001,0.985
